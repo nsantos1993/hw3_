@@ -1,0 +1,54 @@
+body{
+    margin:0;
+}
+
+h1{
+    color:#32CD32;
+    font-family:helvetica;
+}
+
+p{
+    color:#32CD32;
+    font-family:verdana;
+    line-height:24px;
+}
+
+a{
+    color:#0000ff;
+    text-decoration: none;
+}
+
+label{
+    color:#F4E800;
+    text-decoration: none;
+}
+
+header{
+    background:#ccc;
+    padding:20px;
+    text-align:center;
+}
+
+#luciologo{
+    width:100px;
+}
+
+nav{
+    text-align:left;
+}
+
+nav ul{
+    list-style: none;
+    margin:0 auto;
+    padding:0;
+}
+
+nav a{
+    padding:10px;
+    background:#25345;
+    color:#fff;
+    display:block;
+    width:100px;
+    margin: 20px auto;
+    border-radius:10px;
+}
